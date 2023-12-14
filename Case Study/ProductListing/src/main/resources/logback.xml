@@ -1,6 +1,6 @@
 <configuration>
 	
-	<property name="HOME_LOG" value="F:/Vajro_logs/Vajro_Rest_Component.log"/>
+	<property name="HOME_LOG" value="D:/Vajro_logs/Vajro_Rest_Component.log"/>
 
     <appender name="FILE-ROLLING-INFO" class="ch.qos.logback.core.rolling.RollingFileAppender">
 	<filter class="ch.qos.logback.classic.filter.LevelFilter">
